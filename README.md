@@ -29,7 +29,7 @@ Quando a tela for redimensionada para menor, existe uma possível chance das med
 não conseguirem suportar o conteúdo do mesmo(uma vez que as medidas da tela estão diretamente relacionadas com as do componente filho).  
   
 Para não correr o risco desse problema acontecer no seu projeto, faça uso da função JFrame.setMinimumSize().  
-Essa função irá delimitar o mínimo tamanho que uma janela poderá chegar( ficará à critério do programador ).
+Essa função irá delimitar o tamanho mínimo que uma janela poderá chegar( ficará à critério do programador ).
 
   
 # Entendendo a lógica
