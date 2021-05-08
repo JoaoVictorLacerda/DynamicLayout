@@ -42,5 +42,5 @@ o 10% do filho não valerá mais 10.
   
 Situação exemplo:  
   
-10% de 100 = 10;
+10% de 100 = 10;  
 10% de 200 = 20.
