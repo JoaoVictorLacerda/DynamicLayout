@@ -1,5 +1,5 @@
 # DynamicLayout
-## API de um Layout swing muito simples
+## Um Layout swing muito simples
 ### EM DESENVOLVIMENTO BUSCANDO MELHORIAS
 
 #### Assista ao exemplo de uso do gerenciador de layout:
