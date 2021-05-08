@@ -13,7 +13,7 @@ importe o jar para seu projeto ou use a classe disponível no repositório.
 
 Ao criar um elemento que terá filhos, basta passar o DynamicLayout como gerenciador de layout,  
 usando o método: elementoPai.setLayout(new DynamicLayout(width do elemento pai, height do elemento pai )).  
-Ele recebe dois parâmetros para a orientação do posicionamento (irá pegar o tamanho de cada elemento e tirar a porcentagem do mesmo dentro do elemento pai ) de cada elemento.
+Ele recebe dois parâmetros para a orientação do posicionamento (irá pegar o tamanho de cada elemento e tirar a porcentagem do mesmo dentro do elemento pai ).
   
 Feito isso, a classe irá ser responsável por gerenciar os tamanhos e posicionamentos de todos os componentes filhos.
 
