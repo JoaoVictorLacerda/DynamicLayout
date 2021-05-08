@@ -1,2 +1,2 @@
 # DynamicLayout
-##API de um Layout swing muito simples
+## API de um Layout swing muito simples
