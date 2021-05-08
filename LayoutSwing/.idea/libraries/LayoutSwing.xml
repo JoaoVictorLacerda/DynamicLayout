@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LayoutSwing">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/LayoutSwing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
