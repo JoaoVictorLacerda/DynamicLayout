@@ -3,7 +3,7 @@
 ### EM DESENVOLVIMENTO BUSCANDO MELHORIAS
 
 #### Assista ao exemplo de uso do gerenciador de layout:
-[![Exemplo](http://img.youtube.com/vi/SAlTZ1a0dNk/0.jpg)](http://www.youtube.com/watch?v=SAlTZ1a0dNk "Exemplo de Uso da API")
+[![Exemplo](http://img.youtube.com/vi/SAlTZ1a0dNk/0.jpg)](http://www.youtube.com/watch?v=SAlTZ1a0dNk "Exemplo de Uso")
 
 # Iniciando
 Antes de entender como o algoritmo funciona, é necessário aprender a usá-lo.  
@@ -16,7 +16,8 @@ usando o método: elementoPai.setLayout(new DynamicLayout(width do elemento pai,
 Ele recebe dois parâmetros para a orientação do posicionamento (irá pegar o tamanho de cada elemento e tirar a porcentagem do mesmo dentro do elemento pai ).
   
 Feito isso, a classe irá ser responsável por gerenciar os tamanhos e posicionamentos de todos os componentes filhos.
-
+#### Veja um exemplo de implementação em um layout estático:
+[![Implementação](http://img.youtube.com/vi/tZQjtU_Smd0/0.jpg)](http://www.youtube.com/watch?v=tZQjtU_Smd0 "Exemplo")
 # Importante
 
 Ao usar o DynamicLayout, você precisará passar um elementoFilho.setBounds() para que o código possa ser alimentado.  
