@@ -42,7 +42,7 @@ Se um elemento filho que tem a largura de 10px e está dentro de um elemento pai
 que possui 100px de largura, logo, pode-se entender que o elemento filho ocupa  
 10% do elemento pai. Quando o pai é redimensionado, a porcentagem não mudará,  
 o elemento filho ainda possuirá 10% do pai, porém, quando o pai é redimensionado  
-o 10% do filho não valerá mais 10. 
+o 10% do filho não valerá mais 10. A mesma coisa acontece com a localização x e y 
   
 Situação exemplo:  
   
