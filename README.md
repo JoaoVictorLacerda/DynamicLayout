@@ -23,6 +23,9 @@ Ao usar o DynamicLayout, você precisará passar um elementoFilho.setBounds() pa
 Basicamente, o gerenciador funciona à base do setBounds. Ele é capaz de manter constância dos elementos  
 quando o elemento pai é redimensionado.
 
+Você precisará passar o layout antes de passar qualquer elemento filho dentro do elemento pai.  
+Isso porque o gerenciador trabalha pegando todos os elementos apartir do ponto em que o mesmo foi definido
+
 # Recomendação
 
 Quando a tela for redimensionada para menor, existe uma possível chance das medidas dos componentesFilho(width e height)  
