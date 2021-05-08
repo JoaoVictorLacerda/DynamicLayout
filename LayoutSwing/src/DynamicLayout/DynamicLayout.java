@@ -105,7 +105,7 @@ public class DynamicLayout implements LayoutManager2{
     }
 
     private int geraTamanhoHeig(int tamPai, int cont){
-        return ((this.percentsHeig.get(cont) * tamPai)/100)-10;
+        return ((this.percentsHeig.get(cont) * tamPai)/100);
     }
     //métodos não utilizados 07/05/2021
     @Override
