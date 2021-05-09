@@ -8,7 +8,7 @@
 # Iniciando
 Antes de entender como o algoritmo funciona, é necessário aprender a usá-lo.  
   
-importe o jar para seu projeto ou use a classe disponível no repositório.  
+importe o jar para seu projeto disponível no repositório.  
   
 
 Ao criar um elemento que terá filhos, basta passar o DynamicLayout como gerenciador de layout,  
