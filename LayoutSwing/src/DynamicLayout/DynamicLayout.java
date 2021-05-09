@@ -72,8 +72,8 @@ public class DynamicLayout implements LayoutManager2{
 
     @Override
     public void layoutContainer(Container target) {
-        int height = target.getHeight();
-        int width = target.getWidth();
+        int height = target.getHeight()+20;
+        int width = target.getWidth()+10;
         int cont =0;
         for (Component c: this.elementos) {
             int widthFinal = geraTamanhoWid(width, cont);

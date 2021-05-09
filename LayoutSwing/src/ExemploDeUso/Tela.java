@@ -31,8 +31,8 @@ public class Tela extends JFrame {
     public void addJTextFields(){
         JTextField senha = new JTextField();
         JTextField email = new JTextField();
-        senha.setBounds(175,32,120,35);
-        email.setBounds(175,102,120,35);
+        senha.setBounds(175,32,100,35);
+        email.setBounds(175,102,100,35);
         this.PAINEL.add(senha);
         this.PAINEL.add(email);
     }
