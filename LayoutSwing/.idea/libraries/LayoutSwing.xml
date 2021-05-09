@@ -1,6 +1,8 @@
 <component name="libraryTable">
   <library name="LayoutSwing">
-    <CLASSES />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/DynamicLayout.jar!/" />
+    </CLASSES>
     <JAVADOC />
     <SOURCES />
   </library>
