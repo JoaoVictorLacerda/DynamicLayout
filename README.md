@@ -48,3 +48,8 @@ Situação exemplo:
   
 10% de 100 = 10;  
 10% de 200 = 20.
+
+# Projetos que fazem uso:
+Jogo da velha: https://github.com/thenbhd22/JogoDaVelhaEmJava_3.0-Swing.  
+Livraria Digital: https://github.com/thenbhd22/LivrariaDigital
+
