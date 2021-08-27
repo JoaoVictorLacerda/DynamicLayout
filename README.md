@@ -6,8 +6,8 @@
 # Nota da versão 1.1  
 ### O que há de novo?  
 Agora o DynamicLayout também cuidará do redimensionamento das fontes em todos componentes que possuirem um campo de texto  
-<p align= "center">
-<img width= "470" src="./Gifs/Demo.gif">
+<p>
+<img width= "500" src="./Gifs/Demo.gif">
 </p>
 
 
