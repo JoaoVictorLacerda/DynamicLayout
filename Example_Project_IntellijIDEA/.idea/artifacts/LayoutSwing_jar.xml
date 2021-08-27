@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="LayoutSwing:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/LayoutSwing_jar</output-path>
-    <root id="archive" name="LayoutSwing.jar">
-      <element id="module-output" name="LayoutSwing" />
-      <element id="library" level="project" name="LayoutSwing" />
-    </root>
-  </artifact>
-</component>
