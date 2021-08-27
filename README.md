@@ -59,7 +59,7 @@ Situação exemplo:
 10% de 200 = 20.
 
 # Projetos que fazem uso:
-Jogo da velha: https://github.com/thenbhd22/JogoDaVelhaEmJava_3.0-Swing. (Versão 1.0) 
+Jogo da velha: https://github.com/thenbhd22/JogoDaVelhaEmJava_3.0-Swing. (Versão 1.0)   
 Livraria Digital: https://github.com/thenbhd22/LivrariaDigital   (Versão 1.0)
 
 
