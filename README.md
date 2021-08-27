@@ -1,6 +1,11 @@
 # DynamicLayout
 ## Um gerenciador de Layout swing muito simples
-### EM DESENVOLVIMENTO BUSCANDO MELHORIAS
+### BUSCANDO MELHORIAS
+
+# Nota da versão 1.1  
+### O que há de novo?  
+Agora o DynamicLayout também cuidará do redimensionamento das fontes em todos componentes que possuirem um campo de texto  
+
 
 #### Assista ao exemplo de uso do gerenciador de layout:
 [![Exemplo](http://img.youtube.com/vi/SAlTZ1a0dNk/0.jpg)](http://www.youtube.com/watch?v=SAlTZ1a0dNk "Exemplo de Uso")
