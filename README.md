@@ -4,7 +4,7 @@
 
 # Nota da versão 1.1  
 ### O que há de novo?  
-Agora o DynamicLayout também cuidará do redimensionamento do tamanho das fontes em todos componentes que possuirem o mesmo    
+Agora o DynamicLayout também cuidará do redimensionamento das fontes em todos componentes que possuirem um campo de texto    
 
 
 #### Assista ao exemplo de uso do gerenciador de layout:
