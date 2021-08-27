@@ -1,6 +1,7 @@
 # DynamicLayout
-## Um gerenciador de Layout swing muito simples
-### BUSCANDO MELHORIAS  
+## Um gerenciador de Layout swing muito simples  
+
+
 
 # Nota da versão 1.1  
 ### O que há de novo?  
