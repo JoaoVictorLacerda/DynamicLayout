@@ -38,6 +38,8 @@ Ele recebe dois parâmetros para a orientação do posicionamento (irá pegar o 
 Feito isso, a classe irá ser responsável por gerenciar os tamanhos e posicionamentos de todos os componentes filhos.
 
 #### Veja um exemplo de implementação em um layout estático (Clique na imagem):
+O mais recomendado a ser feito é desenvolver com o DynamicLayout desde o zero.  
+Pode ser que precise alterar as dimensões de alguns componentes ao usar o DynamicLayout em um projeto pronto  
 [![](./Imgs/exemplo.LayoutEstatico.jpg)](http://www.youtube.com/watch?v=tZQjtU_Smd0 "Assista o vídeo")
 # Importante
 
