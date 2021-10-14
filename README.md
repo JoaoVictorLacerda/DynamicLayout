@@ -3,8 +3,8 @@
 
 ## Baixe o .jar do DynamicLayout
 
-[versão 1.0](https://github.com/JoaoVictorLacerda/DynamicLayout/raw/main/Jar/DynamicLayout_1.0.jar)  
-[versão 1.1](https://github.com/JoaoVictorLacerda/DynamicLayout/raw/main/Jar/DynamicLayout_1.1.jar)
+- [x] [versão 1.0](https://github.com/JoaoVictorLacerda/DynamicLayout/raw/main/Jar/DynamicLayout_1.0.jar)  
+- [x] [versão 1.1](https://github.com/JoaoVictorLacerda/DynamicLayout/raw/main/Jar/DynamicLayout_1.1.jar)
 
 ## Nota da versão 1.1  
 O que há de novo?   
