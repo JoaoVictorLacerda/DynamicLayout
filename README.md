@@ -19,8 +19,8 @@ Agora o DynamicLayout também cuidará do redimensionamento das fontes em todos 
 
 
 # Iniciando
-#### Assista ao exemplo de uso do gerenciador de layout:
-[![Exemplo](http://img.youtube.com/vi/SAlTZ1a0dNk/0.jpg)](http://www.youtube.com/watch?v=SAlTZ1a0dNk "Exemplo de Uso")  
+#### Assista ao exemplo de uso do gerenciador de layout (Clique na imagem):
+[![Exemplo](./Imgs/exemploDeUso.jpg)](http://www.youtube.com/watch?v=SAlTZ1a0dNk "Exemplo de Uso")  
 Antes de entender como o algoritmo funciona, é necessário aprender a usá-lo.  
   
 importe o jar disponível no repositório para seu projeto.  
@@ -34,8 +34,8 @@ elementoPai.setLayout( new DynamicLayout( width do elemento pai, height do eleme
 Ele recebe dois parâmetros para a orientação do posicionamento (irá pegar o tamanho de cada elemento e tirar a porcentagem do mesmo dentro do elemento pai ).  
 Feito isso, a classe irá ser responsável por gerenciar os tamanhos e posicionamentos de todos os componentes filhos.
 
-#### Veja um exemplo de implementação em um layout estático:
-[![Exemplo](http://img.youtube.com/vi/tZQjtU_Smd0/0.jpg)](http://www.youtube.com/watch?v=tZQjtU_Smd0 "Exemplo")
+#### Veja um exemplo de implementação em um layout estático (Clique na imagem):
+[![Exemplo](./Imgs/exemplo.LayoutEstatico.jpg)](http://www.youtube.com/watch?v=tZQjtU_Smd0 "Exemplo")
 # Importante
 
 Ao usar o DynamicLayout, você precisará passar essa linha de código para que o algoritmo possa ser alimentado.
