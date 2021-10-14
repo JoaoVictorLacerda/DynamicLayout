@@ -38,7 +38,7 @@ Feito isso, a classe irá ser responsável por gerenciar os tamanhos e posiciona
 [![Exemplo](./Imgs/exemplo.LayoutEstatico.jpg)](http://www.youtube.com/watch?v=tZQjtU_Smd0 "Exemplo")
 # Importante
 
-Ao usar o DynamicLayout, você precisará passar essa linha de código para que o algoritmo possa ser alimentado.
+Ao usar o DynamicLayout, você precisará passar essa linha de código em elementos filhos para que o algoritmo possa ser alimentado.
 ~~~
 elementoFilho.setBounds( localização x, localização y, width, height );
 ~~~ 
