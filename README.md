@@ -1,6 +1,6 @@
 
 # DynamicLayout
-DynamicLayout é um gerenciador de layout swing que possui uma utilização extremamente descomplicada.
+**DynamicLayout** é um gerenciador de layout swing que possui uma utilização extremamente descomplicada.
 
 * **Responsividade:** Com o DynamicLayou você poderá desenvolver em swing sem se preocupar com responsividade dos elementos. Basta posicioná-los na sua janela que o DynamicLayout fará todos os cálculos para manter seus objetos swing com as mesmas proporções em relação ao seu objeto-pai.  
 * **Facilidade:** Comece a trabalhar com o gerenciador de layout apenas com uma linha de código passada em objetos-pai
