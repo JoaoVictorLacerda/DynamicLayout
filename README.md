@@ -10,7 +10,7 @@
 ## Nota da versão 1.1  
 O que há de novo?   
 Agora o DynamicLayout também cuidará do redimensionamento das fontes em todos componentes que possuírem um campo de texto.  
-É importante ressaltar que o tamnho da fonte nunca poderá ser maior do que a altura do elemento pai dela.  
+É importante ressaltar que o tamanho da fonte nunca poderá ser maior do que a altura do elemento pai dela.  
 Ex: Fontes do JLabel nunca irão estourar o tamanho da altura de seu pai (o próprio JLabel)
 <p>
  <b>Versão 1.1:</b> <br>
