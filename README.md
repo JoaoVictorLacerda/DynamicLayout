@@ -9,6 +9,33 @@
 
 - [versão 1.0 - stable](https://github.com/JoaoVictorLacerda/DynamicLayout/raw/main/Jar/DynamicLayout_1.0.jar)
 - [versão 1.1 - stable](https://github.com/JoaoVictorLacerda/DynamicLayout/raw/main/Jar/DynamicLayout_1.1.jar)
+## Adiciona dependências ao seu repositório Maven
+primeiro adicione o repositório do [jitpack](https://jitpack.io/)
+```jsx
+<repositories>
+  <repository>
+    <id>jitpack.io</id>
+    <url>https://jitpack.io</url>
+  </repository>
+</repositories>
+```
+Depois adicione a dependência.  
+Versão 1.0:
+```jsx
+<dependency>
+  <groupId>com.github.JoaoVictorLacerda</groupId>
+  <artifactId>DynamicLayout-Maven</artifactId>
+  <version>v1.0</version>
+</dependency>
+```
+Versão 1.1 (Recomendada):
+```jsx
+<dependency>
+  <groupId>com.github.JoaoVictorLacerda</groupId>
+  <artifactId>DynamicLayout-Maven</artifactId>
+  <version>v1.1</version>
+</dependency>
+```
 
 ## Nota da versão 1.1  
 **O que há de novo?**    
