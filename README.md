@@ -8,8 +8,8 @@
 ## Baixe o .jar do DynamicLayout
 
 - [versão 1.0 - stable](https://github.com/JoaoVictorLacerda/DynamicLayout/raw/main/Jar/DynamicLayout_1.0.jar)
-- [versão 1.1 - stable](https://github.com/JoaoVictorLacerda/DynamicLayout/raw/main/Jar/DynamicLayout_1.1.jar)
-## Adiciona dependências ao seu repositório Maven
+- [versão 1.1 - stable(recomendada)](https://github.com/JoaoVictorLacerda/DynamicLayout/raw/main/Jar/DynamicLayout_1.1.jar)
+## Adicionar dependências ao seu repositório Maven
 primeiro adicione o repositório do [jitpack](https://jitpack.io/)
 ```jsx
 <repositories>
@@ -100,3 +100,5 @@ Situação exemplo:
 # Projetos que fazem uso:
 - [Jogo da velha - v1.0](https://github.com/thenbhd22/JogoDaVelhaEmJava_3.0-Swing)
 - [Livraria Digital - v1.0](https://github.com/thenbhd22/LivrariaDigital)
+
+
