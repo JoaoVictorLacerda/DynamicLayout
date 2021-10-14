@@ -34,7 +34,7 @@ elementoPai.setLayout( new DynamicLayout( width-do-elemento-pai, height-do-eleme
 - Ele recebe dois parâmetros inteiros para a orientação do posicionamento (irá pegar o tamanho de cada elemento e tirar a porcentagem do mesmo dentro do elemento pai ). Feito isso, o objeto será responsável por gerenciar os tamanhos e posicionamentos de todos os componentes filhos.
 
 #### Veja um exemplo de implementação em um layout estático (Clique na imagem):
-[![](./Imgs/exemploLayoutEstatico.jpg)](http://www.youtube.com/watch?v=tZQjtU_Smd0 "Assista o vídeo")
+[![](./Imgs/exemplo.LayoutEstatico.jpg)](http://www.youtube.com/watch?v=tZQjtU_Smd0 "Assista o vídeo")
 # Importante  
 - Aviso 1 - Você precisará passar o layout antes de passar qualquer elemento filho dentro do elemento pai. Isso porque o gerenciador trabalha pegando todos os elementos a partir do ponto em que o mesmo foi definido.  
 
