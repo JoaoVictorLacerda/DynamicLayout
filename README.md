@@ -8,7 +8,9 @@
 
 ## Nota da versão 1.1  
 O que há de novo?   
-Agora o DynamicLayout também cuidará do redimensionamento das fontes em todos componentes que possuírem um campo de texto  
+Agora o DynamicLayout também cuidará do redimensionamento das fontes em todos componentes que possuírem um campo de texto.  
+É importante ressaltar que o tamnho da fonte nunca poderá ser maior do que a altura do elemento pai dela.  
+Ex: Fontes do JLabel nunca irão estourar o tamanho da altura de seu pai (o próprio JLabel)
 <p>
  <b>Versão 1.1:</b> <br>
  <img width= "500"  height="300" src="./Gifs/DemoV1.1.gif"> <br>
@@ -65,10 +67,13 @@ seuPainel.setPreferredSize( new Dimension( width, height ) );
 ~~~
 É de extrema importância que o DinamicLayout seja alimentado com as dimensões novas que foram passadas no construtor do Dimension.  
 Exemplo:  
+  
 
-seuPainel.panel.setBounds( 230, 65, 440, 430 );    
-seuPainel.setPreferredSize( new Dimension( 0, 630 ) );    
+```
+seuPainel.panel.setBounds( 230, 65, 440, 430 );  
+seuPainel.setPreferredSize( new Dimension( 0, 630 ) ); 
 sePainel.setLayout( new DynamicLayout( 440, 630 ) );  
+```
 
 Perceba que esse código só altera a altura do preferredSize, seguindo a lógica, você só irá precisar passar a altura "atualizada" no DynamicLayout.
 
@@ -79,7 +84,7 @@ Se um elemento filho que tem a largura de 10px e está dentro de um elemento pai
 que possui 100px de largura, logo, pode-se entender que o elemento filho ocupa  
 10% do elemento pai. Quando o pai é redimensionado, a porcentagem não mudará,  
 o elemento filho ainda possuirá 10% do pai, porém, quando o pai é redimensionado  
-o 10% do filho não valerá mais 10. A mesma coisa acontece com a altura e a localização x e y  
+o 10% do filho não valerá mais 10. A mesma coisa acontece com a altura, localização x e y e as fontes (na versão 1.1)  
   
 Situação exemplo:  
   
