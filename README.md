@@ -8,7 +8,7 @@
 ## Baixe o .jar do DynamicLayout
 
 - [versão 1.0 - stable](https://github.com/JoaoVictorLacerda/DynamicLayout/raw/main/Jar/DynamicLayout_1.0.jar)
-- [versão 1.1 - stable (recomendada)](https://github.com/JoaoVictorLacerda/DynamicLayout/raw/main/Jar/DynamicLayout_1.1.jar)
+- [versão 1.1 - stable (recomendado)](https://github.com/JoaoVictorLacerda/DynamicLayout/raw/main/Jar/DynamicLayout_1.1.jar)
 ## Adicionar dependências ao seu repositório Maven
 primeiro adicione o repositório do [jitpack](https://jitpack.io/)
 ```jsx
@@ -28,7 +28,7 @@ Versão 1.0:
   <version>v1.0</version>
 </dependency>
 ```
-Versão 1.1 (Recomendada):
+Versão 1.1 (Recomendado):
 ```jsx
 <dependency>
   <groupId>com.github.JoaoVictorLacerda</groupId>
