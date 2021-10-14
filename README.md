@@ -1,4 +1,5 @@
-# DynamicLayout: Um gerenciador de Layout swing muito simples  
+
+# DynamicLayout: Um gerenciador de Layout swing muito simples 
 
 
 ## Baixe o .jar do DynamicLayout
