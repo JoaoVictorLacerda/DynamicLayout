@@ -72,8 +72,8 @@ seuPainel.setPreferredSize( new Dimension( width, height ) );
 Exemplo:  
   
 
-```
-seuPainel.panel.setBounds( 230, 65, 440, 430 );  
+```jsx
+seuPainel.setBounds( 230, 65, 440, 430 );  
 seuPainel.setPreferredSize( new Dimension( 0, 630 ) ); 
 sePainel.setLayout( new DynamicLayout( 440, 630 ) );  
 ```
