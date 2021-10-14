@@ -1,10 +1,13 @@
-# DynamicLayout
-## Um gerenciador de Layout swing muito simples  
+# DynamicLayout: Um gerenciador de Layout swing muito simples  
 
 
+## Baixe o .jar do DynamicLayout
 
-# Nota da versão 1.1  
-### O que há de novo?  
+[versão 1.0](https://github.com/JoaoVictorLacerda/DynamicLayout/raw/main/Jar/DynamicLayout_1.0.jar)  
+[versão 1.1](https://github.com/JoaoVictorLacerda/DynamicLayout/raw/main/Jar/DynamicLayout_1.1.jar)
+
+## Nota da versão 1.1  
+O que há de novo?   
 Agora o DynamicLayout também cuidará do redimensionamento das fontes em todos componentes que possuírem um campo de texto  
 <p>
 <img width= "700"  height="500" src="./Gifs/Demo.gif">
@@ -21,7 +24,10 @@ importe o jar disponível no repositório para seu projeto.
   
 
 Ao criar um elemento que terá filhos, basta passar o DynamicLayout como gerenciador de layout,  
-usando o método: elementoPai.setLayout(new DynamicLayout(width do elemento pai, height do elemento pai )).  
+usando o método:
+~~~
+elementoPai.setLayout(new DynamicLayout(width do elemento pai, height do elemento pai));
+~~~
 Ele recebe dois parâmetros para a orientação do posicionamento (irá pegar o tamanho de cada elemento e tirar a porcentagem do mesmo dentro do elemento pai ).
   
 Feito isso, a classe irá ser responsável por gerenciar os tamanhos e posicionamentos de todos os componentes filhos.
@@ -29,9 +35,12 @@ Feito isso, a classe irá ser responsável por gerenciar os tamanhos e posiciona
 [![Implementação](http://img.youtube.com/vi/tZQjtU_Smd0/0.jpg)](http://www.youtube.com/watch?v=tZQjtU_Smd0 "Exemplo")
 # Importante
 
-Ao usar o DynamicLayout, você precisará passar um elementoFilho.setBounds() para que o código possa ser alimentado.  
-Basicamente, o gerenciador funciona à base do setBounds. Ele é capaz de manter constância dos elementos  
-quando o elemento pai é redimensionado.
+Ao usar o DynamicLayout, você precisará passar essa linha de código para que o algoritmo possa ser alimentado.
+~~~
+elementoFilho.setBounds(localização x, localização y, width, height);
+~~~ 
+O gerenciador funciona à base do setBounds pegando o ponto x, o ponto y, width e height.  
+Ele é capaz de manter constância dos elementos quando o elemento pai é redimensionado.
 
 Você precisará passar o layout antes de passar qualquer elemento filho dentro do elemento pai.  
 Isso porque o gerenciador trabalha pegando todos os elementos apartir do ponto em que o mesmo foi definido
