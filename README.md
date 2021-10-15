@@ -2,7 +2,7 @@
 # DynamicLayout
 **DynamicLayout** é um gerenciador de layout swing orientado à percentagens de objetos-filho dentro de objetos-pai. Sua utilização é extremamente descomplicada.  
 - **Objetos-filho:** Qualquer objeto swing que está adicionado em outro objeto. Ex: JLabels podem ser filhos de um JPanel e um JPanel pode ser filho de um JFrame.
-- **Objetos-pai:** Qualquer objeto que possui um ou mais objetos em sua composição visual. Ex: JPanel pode ser pai de vários JLabels.  
+- **Objetos-pai:** Qualquer objeto swing que possui um ou mais objetos em sua composição visual. Ex: JPanel pode ser pai de vários JLabels.  
 # Sobre o DynamicLayout
 * **Responsividade:** Com o DynamicLayou você poderá desenvolver em swing sem se preocupar com responsividade dos elementos. Basta posicioná-los na sua janela que o DynamicLayout fará todos os cálculos para manter seus objetos swing com as mesmas proporções em relação ao seu objeto-pai.  
 * **Facilidade:** Comece a trabalhar com o gerenciador de layout apenas com uma linha de código passada em objetos-pai.
