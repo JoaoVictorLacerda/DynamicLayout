@@ -20,20 +20,21 @@ primeiro adicione o repositório do [jitpack](https://jitpack.io/)
 </repositories>
 ```
 Depois adicione a dependência.  
-Versão 1.0:
-```jsx
-<dependency>
-  <groupId>com.github.JoaoVictorLacerda</groupId>
-  <artifactId>DynamicLayout-Maven</artifactId>
-  <version>v1.0</version>
-</dependency>
-```
 Versão 1.1 (Recomendado):
 ```jsx
 <dependency>
   <groupId>com.github.JoaoVictorLacerda</groupId>
   <artifactId>DynamicLayout-Maven</artifactId>
   <version>v1.1</version>
+</dependency>
+```
+
+Versão 1.0:
+```jsx
+<dependency>
+  <groupId>com.github.JoaoVictorLacerda</groupId>
+  <artifactId>DynamicLayout-Maven</artifactId>
+  <version>v1.0</version>
 </dependency>
 ```
 
