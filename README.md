@@ -93,7 +93,7 @@ Essa função irá delimitar o tamanho mínimo que uma janela poderá chegar( fi
 
 # Entendendo a lógica
 
-[x] Se um objeto-filho que tem a largura de 10px e está dentro de um objeto-pai  
+- [x] Se um objeto-filho que tem a largura de 10px e está dentro de um objeto-pai  
 que possui 100px de largura, logo, pode-se entender que o objeto-filho ocupa  
 10% do objeto-pai. Quando o pai é redimensionado, a porcentagem não mudará,  
 o objeto-filho ainda possuirá 10% do objeto-pai, porém, quando o pai é redimensionado  
