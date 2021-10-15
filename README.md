@@ -107,3 +107,5 @@ Situação exemplo:
 # Projetos que fazem uso:
 - [Jogo da velha - v1.0](https://github.com/thenbhd22/JogoDaVelhaEmJava_3.0-Swing)
 - [Livraria Digital - v1.0](https://github.com/thenbhd22/LivrariaDigital)
+- [Primeiro Projeto de BD2 - v1.1](https://github.com/JoaoVictorLacerda/CRUD_PROJECT_BD2)
+- [Microsserviço para o Arretadas - CodeGenerator - v1.1](https://github.com/JoaoVictorLacerda/Arretadas-CodeGenerator-front)
