@@ -109,3 +109,6 @@ Situação exemplo:
 - [Livraria Digital - v1.0](https://github.com/thenbhd22/LivrariaDigital)
 - [DeliveryManager - v1.1](https://github.com/JoaoVictorLacerda/CRUD_PROJECT_BD2)
 - [Microsserviço para o Arretadas - CodeGenerator - v1.1](https://github.com/JoaoVictorLacerda/Arretadas-CodeGenerator-front)
+
+# Entre em contato
+[victorqueiroz90@outlook.com](mailto:victorqueiroz90@outlook.com)
