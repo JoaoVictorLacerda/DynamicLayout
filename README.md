@@ -27,7 +27,7 @@ Versão 1.1 (Recomendado):
 <dependency>
   <groupId>com.github.JoaoVictorLacerda</groupId>
   <artifactId>DynamicLayout-Maven</artifactId>
-  <version>v1.1</version>
+  <version>1.1</version>
 </dependency>
 ```
 
@@ -36,7 +36,7 @@ Versão 1.0:
 <dependency>
   <groupId>com.github.JoaoVictorLacerda</groupId>
   <artifactId>DynamicLayout-Maven</artifactId>
-  <version>v1.0</version>
+  <version>1.0</version>
 </dependency>
 ```
 
